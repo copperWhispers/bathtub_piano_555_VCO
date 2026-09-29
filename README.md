@@ -7,6 +7,8 @@ https://www.ti.com/lit/ds/symlink/ne555.pdf
 
 KiCAD Schematic and Layout attached.
 
+Also attached a rough notes document which is the doc I wrote into as I designed this circuit, you can see it as an in depth technical version of the journey presented in the video.
+
 <img width="1265" height="803" alt="image" src="https://github.com/user-attachments/assets/57f27991-670c-419a-857d-387e49317d1f" />
 
 
