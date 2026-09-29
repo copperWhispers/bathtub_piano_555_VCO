@@ -16,6 +16,7 @@ Also attached a rough notes document which is the doc I wrote into as I designed
 
 
 
+<img width="762" height="485" alt="image" src="https://github.com/user-attachments/assets/5f4571d4-2bde-4d0a-8b13-aae16c3724bf" />
 
 
 
